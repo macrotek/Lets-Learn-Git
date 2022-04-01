@@ -14,3 +14,4 @@ Dosum()
 	sum=num1+num2;
 	printf("The sum of two numbers is :%d",sum);
 }
+//We will get addition of two numbers
